@@ -25,7 +25,8 @@
 - 😄 Pronouns: He\him Ele\dele
 - ⚡ Fun fact: ...
 -->
- 
+<br>
+<br>
 Some topics about me:
 
 - 🔭 I’m currently working on -> Salesoft as QA Enginner - Trainee.
