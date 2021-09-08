@@ -1,5 +1,5 @@
-### Hi, I'm Thiago ;)
-
+### Hi, I'm Thiago Mundici ;)
+###### (for some Mundiça)
 <img align='right' src="https://pm1.narvii.com/6807/a5935d52028208f1a06450290d79dff3b0e917ddv2_hq.jpg" width="230">
 <p><em> I am a QA trainee enginner with a passion for challenges and learning new things.</a>
  </em></p>
@@ -20,16 +20,18 @@
 <div>
 <!--
 **thiagomsantanna/thiagomsantanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He\him Ele\dele
 - ⚡ Fun fact: ...
 -->
+ 
+Some topics about me:
+
+- 🔭 I’m currently working on -> Salesoft as QA Enginner - Trainee.
+- 🌱 I’m currently learning -> Aways learning more on JavaScript and Ruby.
+- 💬 Ask me about -> Just everything, i absoluting will drop any task im working on to try to help.
+- 📫 How to reach me -> Just send me a console.log("Salve, meu principe") in any of my social media dm's
+
+
 
