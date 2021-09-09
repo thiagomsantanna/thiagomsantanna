@@ -35,7 +35,6 @@ Some topics about me:
 - 📫 How to reach me: Just send me a console.log("Salve, meu principe") in any of my social media dm's
 
  <br>
- <br>
  
 #
 
