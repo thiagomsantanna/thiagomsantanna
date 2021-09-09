@@ -34,5 +34,11 @@ Some topics about me:
 - 💬 Ask me about everything, i absoluting will drop any task im working on to try to help.
 - 📫 How to reach me: Just send me a console.log("Salve, meu principe") in any of my social media dm's
 
+ <br>
+ <br>
+ 
+#
+
+ ![](https://komarev.com/ghpvc/?username=thiagomsantanna&color=fcba03&style=flat)
 
 
