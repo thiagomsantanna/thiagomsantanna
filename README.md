@@ -29,10 +29,10 @@
 <br>
 Some topics about me:
 
-- 🔭 I’m currently working on -> Salesoft as QA Enginner - Trainee.
-- 🌱 I’m currently learning -> Aways learning more on JavaScript and Ruby.
-- 💬 Ask me about -> Just everything, i absoluting will drop any task im working on to try to help.
-- 📫 How to reach me -> Just send me a console.log("Salve, meu principe") in any of my social media dm's
+- 🔭 I’m currently working in Salesoft as QA Enginner - Trainee.
+- 🌱 I’m currently learning more on JavaScript and Ruby.
+- 💬 Ask me about everything, i absoluting will drop any task im working on to try to help.
+- 📫 How to reach me: Just send me a console.log("Salve, meu principe") in any of my social media dm's
 
 
 
