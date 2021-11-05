@@ -5,7 +5,7 @@
  </em></p>
  
  <p align="left">
-  Some experience with: <strong>HTML, CSS, JS, Bootstrap, Node.js, C#, xUnit and Selenium . </strong>
+  Some experience with: <strong>HTML, CSS, JS, Node.js, C#, xUnit and Selenium . </strong>
 </p>
 
 
