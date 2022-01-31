@@ -1,6 +1,6 @@
 ### Hi, I'm Thiago Mundici ;)
 ###### (for some Mundiça)
-<img align='right' src="https://github.com/thiagomsantanna/thiagomsantanna/blob/main/v2_thiagot.jpeg" width="230">
+<img align='right' src="https://github.com/thiagomsantanna/thiagomsantanna/blob/main/v2_thiagot.jpg" width="230">
 <p><em> I am a QA trainee with a passion for challenges and learning new things.</a>
  </em></p>
  
