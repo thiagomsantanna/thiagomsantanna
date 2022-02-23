@@ -1,7 +1,7 @@
 ### Hi, I'm Thiago Mundici ;)
 ###### (for some Mundiça)
 <img align='right' src="https://github.com/thiagomsantanna/thiagomsantanna/blob/main/v2_thiagot.jpg" width="230">
-<p><em> I am a QA trainee with a passion for challenges and learning new things.</a>
+<p><em> I am a QA Junior with a passion for challenges and learning new things.</a>
  </em></p>
  
  <p align="left">
@@ -29,7 +29,7 @@
 <br>
 Some topics about me:
 
-- 🔭 I’m currently working in Salesoft as QA - Trainee.
+- 🔭 I’m currently working in Salesoft as QA - Junior.
 - 🌱 I’m currently learning more on JavaScript and Ruby.
 - 💬 Ask me about everything, i absoluting will drop any task im working on to try to help.
 - 📫 How to reach me: Just send me a "Salve, meu principe" in any of my social media dm's
