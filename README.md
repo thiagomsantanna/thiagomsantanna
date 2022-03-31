@@ -29,7 +29,7 @@
 <br>
 Some topics about me:
 
-- 🔭 I’m currently working in Salesoft as QA - Junior.
+- 🔭 I’m currently working at [@Sensedia](https://br.sensedia.com) as QA - Junior.
 - 🌱 I’m currently learning more on JavaScript and Ruby.
 - 💬 Ask me about everything, i absoluting will drop any task im working on to try to help.
 - 📫 How to reach me: Just send me a "Salve, meu principe" in any of my social media dm's
