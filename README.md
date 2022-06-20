@@ -38,10 +38,5 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=thiagomsantanna.thiagomsantanna&right_color=yellowgreen"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/thiagomsantanna/thiagomsantanna/blob/output/snake.svg" alt="Snake animation" />
 
 ###
