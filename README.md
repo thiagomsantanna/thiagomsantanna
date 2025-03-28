@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="275" src="https://raw.githubusercontent.com/thiagomsantanna/thiagomsantanna/main/v2_thiagot.jpg"  />
+<!-- <img align="left" height="275" src="https://raw.githubusercontent.com/thiagomsantanna/thiagomsantanna/main/v2_thiagot.jpg"  /> -->
 
 ###
 
